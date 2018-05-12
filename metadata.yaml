@@ -1,0 +1,43 @@
+_repo: La-cuerda-del-ahorcado-ltimas-aventuras-de-Rocambole--I-El-Loco-de-Bedlam_27695
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Corona Bustamante, Francisco
+    aliases:
+    - Bustamante, Francisco Corona
+    - Bustamante, F. Corona
+    gutenberg_agent_id: '32852'
+    url: http://www.gutenberg.org/2009/agents/32852
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ponson du Terrail
+    aliases:
+    - Terrail, Pierre Alexis Ponson du
+    - Ponson du Terrail, Pierre Alexis, Vicomte de
+    - Du Terrail, Pierre Alexis
+    birthdate: 1829
+    deathdate: 1871
+    gutenberg_agent_id: '5878'
+    url: http://www.gutenberg.org/2009/agents/5878
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Pierre_Alexis_Ponson_du_Terrail
+    - http://fr.wikipedia.org/wiki/Ponson_du_Terrail
+description: ''
+gutenberg_issued: '2009-01-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27695'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PQ'
+title: 'La cuerda del ahorcado
+
+  Últimas aventuras de Rocambole: I El Loco de Bedlam'
+url: http://www.gutenberg.org/ebooks/27695
