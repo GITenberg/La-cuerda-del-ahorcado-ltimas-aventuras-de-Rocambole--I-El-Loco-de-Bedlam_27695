@@ -26,6 +26,8 @@ creator:
     - http://en.wikipedia.org/wiki/Pierre_Alexis_Ponson_du_Terrail
     - http://fr.wikipedia.org/wiki/Ponson_du_Terrail
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27695#La-cuerda-del-ahorcado-ltimas-aventuras-de-Rocambole--I-El-Loco-de-Bedlam
 gutenberg_issued: '2009-01-03'
 gutenberg_type: Text
 identifiers:
